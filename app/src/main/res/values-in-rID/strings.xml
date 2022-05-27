@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="welcome">Selamat datang di Story App</string>
+    <string name="new_story">Pengguna baru Story?</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="email_validation">Email tidak valid</string>
+    <string name="password_validation">Password harus punya minimal 6 karakter</string>
+    <string name="login_message">Silahkan masuk terlebih dahulu atau mendaftar akun baru</string>
+    <string name="name_validation">Nama tidak boleh kosong</string>
+    <string name="validation_error">Periksa lagi masukan anda</string>
+    <string name="register_success">Berhasil mendaftar</string>
+    <string name="login_success">Berhasil masuk</string>
+    <string name="logging_in">Sedang masuk....</string>
+    <string name="registering">Sedang mendaftar....</string>
+    <string name="log_out">Keluar</string>
+    <string name="stories_user">Oleh %1$s</string>
+    <string name="stories_description">Story oleh %1$s</string>
+    <string name="stories_uploaded">Diupload pada %1$s</string>
+    <string name="stories_desc">Deskripsi: %1$s</string>
+    <string name="loading_data">Memuat....</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="retry">Coba lagi</string>
+    <string name="add_new_story">Tambahkan story baru</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="add_new">Tambah story</string>
+    <string name="desc_validation">Deskripsi tidak boleh kosong</string>
+    <string name="chooser_title">Pilih sebuah gambar</string>
+    <string name="description">Deskripsi</string>
+    <string name="permission_denied">Permintaan izin ditolak</string>
+    <string name="picture_success">Gambar berhasil diambil</string>
+    <string name="picture_fail">Pengambilan gambar gagal</string>
+    <string name="uploading">Mengunggah gambar....</string>
+    <string name="preview">Pratinjau gambar</string>
+    <string name="upload_success">Story berhasil ditambah</string>
+    <string name="setting">Pengaturan Bahasa</string>
+    <string name="camera_fail">Kamera gagal dibuka</string>
+    <string name="load_picture">Gambar berhasil dimuat</string>
+    <string name="login_person">login_person</string>
+    <string name="select_image">Pilih gambar melalui :</string>
+    <string name="register_title">Ayo buat akun</string>
+</resources>

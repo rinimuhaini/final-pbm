@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">Story App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome to Story App</string>
+    <string name="new_story">New to Story?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email_validation">Email is invalid</string>
+    <string name="password_validation">Password must have at least 6 characters</string>
+    <string name="login_message">Please login first or register a new account</string>
+    <string name="name_validation">Name cannot be empty</string>
+    <string name="validation_error">Check your input again</string>
+    <string name="register_success">Successfully registered</string>
+    <string name="login_success">Successfully logged in</string>
+    <string name="logging_in">Logging in....</string>
+    <string name="registering">Registering....</string>
+    <string name="log_out">Log Out</string>
+    <string name="stories_user">By %1$s</string>
+    <string name="stories_description">Story by %1$s</string>
+    <string name="stories_uploaded">Uploaded at %1$s</string>
+    <string name="stories_desc">Description: %1$s</string>
+    <string name="loading_data">Loading....</string>
+    <string name="no_data">There is no data</string>
+    <string name="retry">Retry</string>
+    <string name="add_new_story">Add new story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add_new">Add story</string>
+    <string name="desc_validation">Description cannot be empty</string>
+    <string name="chooser_title">Choose a image</string>
+    <string name="description">Description</string>
+    <string name="permission_denied">Permission request is denied</string>
+    <string name="picture_success">Picture taken successfully</string>
+    <string name="picture_fail">Take picture failed</string>
+    <string name="uploading">Uploading image....</string>
+    <string name="preview">Preview of image</string>
+    <string name="upload_success">Story successfully added</string>
+    <string name="setting">Language Setting</string>
+    <string name="camera_fail">Opening camera failed</string>
+    <string name="load_picture">Picture successfully loaded</string>
+    <string name="auth" translatable="false">Bearer %1$s</string>
+    <string name="login_person">login_person</string>
+    <string name="select_image">Select image from :</string>
+    <string name="register_title">Let\'s create an account</string>
+</resources>
